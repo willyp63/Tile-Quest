@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ed83c85803074261a26fe43e06e30cf, type: 3}
+  m_Name: Star Fall
+  m_EditorClassIdentifier: 
+  title: Star Fall
+  description: Damages target and ALL adjacent units for 30 (friendly-fire possible)
+  cost: 4
+  range: 4
+  canTargetEnemies: 1
+  canTargetAllies: 0
+  canTargetSelf: 0
+  damageAmount: 30
+  radius: 1
+  effectPrefab: {fileID: 6530530854545509776, guid: 579620d05c79d49eebfe50d75c80106a,
+    type: 3}
+  effectDuration: 3
+  isFriendlyFirePossible: 1

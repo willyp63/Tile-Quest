@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfba41dcd0c1e4229b2faa3068c67f0a, type: 3}
+  m_Name: Getting Started
+  m_EditorClassIdentifier: 
+  title: Getting Started
+  description: Kill a small group of enemies
+  height: 6
+  width: 16
+  data: '0 0 1 1 0 0 0 0 1 1 1 2 0 0 0 0
+
+    0 1 2 1 0 0 0 1 1 2 2 1 1 1 1 1
+
+    1 1 2 2 1 1 0 1 2 2 1 1 2 1 2 2
+
+    2 1 2 1 2 1 1 1 1 1 1 2 1 1 1 1
+
+    0 0 1 1 2 2 1 1 1 0 0 2 1 1 2 0
+
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0'
+  allyStartingPoss:
+  - {x: 2, y: 2}
+  - {x: 3, y: 3}
+  - {x: 2, y: 3}

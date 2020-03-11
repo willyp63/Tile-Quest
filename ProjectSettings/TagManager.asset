@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 2338607211
+    locked: 0
+  - name: Bases
+    uniqueID: 2199277499
+    locked: 0
+  - name: Action Indicators
+    uniqueID: 2233051335
+    locked: 0
+  - name: Units
+    uniqueID: 3232428971
+    locked: 0
+  - name: Combat Indicators
+    uniqueID: 830527405
+    locked: 0
